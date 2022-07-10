@@ -22,4 +22,4 @@ Here are some of my ideas and information.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pineconebe&layout=compact&theme=tokyonight)](https://github.com/Pineconebe/github-readme-stats)
 
 ### My wakatime
-[![Pineconebe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pineconebe&theme=tokyonight)](https://github.com/Pineconebe/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pineconebe)](https://github.com/anuraghazra/github-readme-stats)
