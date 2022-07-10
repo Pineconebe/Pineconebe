@@ -29,4 +29,4 @@ Here are some of my ideas and information.
 
 [![Gitee](https://img.shields.io/badge/GitHub-grey?logo=gitee)](https://gitee.com/oohe)
 
-[CSDN](https://img.shields.io/badge/dynamic/xml?color=orange&label=Muyao&query=//div[@class=“user-profile-head-info-m”]//span&url=https://blog.csdn.net/demo_yo)
+[![CSDN](https://img.shields.io/badge/dynamic/xml?color=orange&label=CSDN&query=//div[@class=“user-profile-head-info-m”]//span&url=https://blog.csdn.net/demo_yo)
