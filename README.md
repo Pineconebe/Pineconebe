@@ -27,6 +27,6 @@ Here are some of my ideas and information.
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Pineconebe)
 
-[![Gitee](https://img.shields.io/badge/zsr-gitee-red?logo=Gitee&label=Whitemeen)](https://gitee.com/oohe)
+[![Gitee](https://img.shields.io/badge/Gitee-gitee-red?logo=Gitee&label=Whitemeen)](https://gitee.com/oohe)
 
-[![CSDN](https://img.shields.io/badge/dynamic/xml?color=orange&label=Whitemeen)](https://blog.csdn.net/demo_yo)
+[![CSDN](https://img.shields.io/badge/CSDN-gitee-red?color=orange&label=Whitemeen)](https://blog.csdn.net/demo_yo)
