@@ -24,5 +24,5 @@ Here are some of my ideas and information.
 ### Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Pineconebe) &nbsp;
-[![Gitee](https://img.shields.io/badge/Gitee-Whitemeen-red?logo=Gitee&label=Gitee)](https://gitee.com/oohe)
+[![Gitee](https://img.shields.io/badge/Gitee-Whitemeen-red?logo=Gitee&label=Gitee)](https://gitee.com/oohe) &nbsp;
 [![CSDN](https://img.shields.io/badge/CSDN-Whitemeen-red?color=orange&label=CSDN)](https://blog.csdn.net/demo_yo)
