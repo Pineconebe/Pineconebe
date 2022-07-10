@@ -12,4 +12,4 @@ Here are some of my ideas and information.
 - 😄 Pronouns: Interest drives me.
 - 🍎 Fun fact: You know, I could have lived by my face, but I chose my passion. 
 
-![Whitemeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pineconnebe&show_icons=true&theme=tokyonight)
+![Pineconebe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pineconebe&show_icons=true&theme=radical)
