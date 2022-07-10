@@ -16,10 +16,10 @@ Here are some of my ideas and information.
 ![Pineconebe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pineconebe&show_icons=true&theme=tokyonight)
 
 ### My side projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pineconebe&repo=github-readme-stats)](https://github.com/Pineconebe/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pineconebe&repo=github-readme-stats&theme=tokyonight)](https://github.com/Pineconebe/github-readme-stats)
 
 ### My language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pineconebe&layout=compact)](https://github.com/Pineconebe/github-readme-stats)
 
 ### My wakatime
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pineconebe)](https://github.com/Pineconebe/github-readme-stats)
+[![Pineconebe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pineconebe)](https://github.com/Pineconebe/github-readme-stats)
