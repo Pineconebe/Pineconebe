@@ -15,6 +15,9 @@ Here are some of my ideas and information.
 ### My card
 ![Pineconebe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pineconebe&show_icons=true&theme=tokyonight)
 
+Keep writing and publishing articles about tech comm (technical writing, stories, self-improvement, etc.) 
+- [CSDN - 专业开发者社区]([https://www.zhihu.com/column/tc-fun](https://blog.csdn.net/demo_yo))
+
 ### My side projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pineconebe&repo=github-readme-stats&theme=tokyonight)](https://github.com/Pineconebe/github-readme-stats)
 
