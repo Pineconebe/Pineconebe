@@ -22,7 +22,8 @@ Here are some of my ideas and information.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pineconebe&layout=compact&theme=tokyonight)](https://github.com/Pineconebe/github-readme-stats)
 
 ### Get in touch
- - [CSDN - 专业开发者社区](https://blog.csdn.net/demo_yo) 
 
-[![Pineconebe.me](https://img.shields.io/badge/Pineconebe.me-orange)](https://Pineconebe.me/)
+[CSDN - 专业开发者社区](https://blog.csdn.net/demo_yo) 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Pineconebe)
+[![Gitee](https://img.shields.io/badge/GitHub-grey?logo=gitee)](https://gitee.com/oohe)
+[![CSDN](https://img.shields.io/badge/GitHub-grey?logo=csdn)](https://blog.csdn.net/demo_yo)
