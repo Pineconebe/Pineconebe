@@ -19,7 +19,7 @@ Here are some of my ideas and information.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pineconebe&repo=github-readme-stats&theme=tokyonight)](https://github.com/Pineconebe/github-readme-stats)
 
 ### My language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pineconebe&layout=compact)](https://github.com/Pineconebe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pineconebe&layout=compact&theme=tokyonight)](https://github.com/Pineconebe/github-readme-stats)
 
 ### My wakatime
-[![Pineconebe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pineconebe)](https://github.com/Pineconebe/github-readme-stats)
+[![Pineconebe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pineconebe&theme=tokyonight)](https://github.com/Pineconebe/github-readme-stats)
