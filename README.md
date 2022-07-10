@@ -23,8 +23,6 @@ Here are some of my ideas and information.
 
 ### Get in touch
 
-[CSDN - 专业开发者社区](https://blog.csdn.net/demo_yo) 
-
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Pineconebe)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Pineconebe) &nbsp;
 [![Gitee](https://img.shields.io/badge/Gitee-Whitemeen-red?logo=Gitee&label=Gitee)](https://gitee.com/oohe)
 [![CSDN](https://img.shields.io/badge/CSDN-Whitemeen-red?color=orange&label=CSDN)](https://blog.csdn.net/demo_yo)
