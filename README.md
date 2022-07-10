@@ -29,4 +29,4 @@ Here are some of my ideas and information.
 
 [![Gitee](https://img.shields.io/badge/Gitee-gitee-red?logo=Gitee&label=Whitemeen)](https://gitee.com/oohe)
 
-[![CSDN](https://img.shields.io/badge/CSDN-gitee-red?color=orange&label=Whitemeen)](https://blog.csdn.net/demo_yo)
+[![CSDN](https://img.shields.io/badge/CSDN-csdn-red?color=orange&label=Whitemeen)](https://blog.csdn.net/demo_yo)
