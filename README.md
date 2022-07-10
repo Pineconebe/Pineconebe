@@ -13,3 +13,6 @@ Here are some of my ideas and information.
 - 🍎 Fun fact: You know, I could have lived by my face, but I chose my passion. 
 
 ![Pineconebe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pineconebe&show_icons=true&theme=tokyonight)
+
+### My side projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pineconebe&repo=github-readme-stats)](https://github.com/Pineconebe/github-readme-stats)
